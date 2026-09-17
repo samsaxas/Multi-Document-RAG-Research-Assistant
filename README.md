@@ -143,3 +143,6 @@ in the provided documents rather than inventing an answer.
 <img width="1917" height="965" alt="image" src="https://github.com/user-attachments/assets/0a96b275-2545-4e7f-b8c8-c03e0d420e93" />
 
 <img width="1917" height="961" alt="image" src="https://github.com/user-attachments/assets/97bab576-ee66-4f12-8eb6-017c1be77ee5" />
+
+<img width="1630" height="912" alt="image" src="https://github.com/user-attachments/assets/91315fbf-f488-4a54-9afe-6e954b8fc7aa" />
+
