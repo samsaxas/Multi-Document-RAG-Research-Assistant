@@ -134,3 +134,12 @@ citations, and refusal behavior.
 Expected behavior:
 The system should respond that the information cannot be found
 in the provided documents rather than inventing an answer.
+
+
+# Real Images of the project:
+
+<img width="1917" height="966" alt="image" src="https://github.com/user-attachments/assets/e75a52d0-6a32-4e20-a26f-c621825e6667" />
+
+<img width="1917" height="965" alt="image" src="https://github.com/user-attachments/assets/0a96b275-2545-4e7f-b8c8-c03e0d420e93" />
+
+<img width="1917" height="961" alt="image" src="https://github.com/user-attachments/assets/97bab576-ee66-4f12-8eb6-017c1be77ee5" />
