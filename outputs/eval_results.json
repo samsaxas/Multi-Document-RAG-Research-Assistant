@@ -1,0 +1,363 @@
+{
+  "backend": "tfidf (local fallback \u2014 NOT the production HuggingFace backend)",
+  "retrieval": {
+    "hit_rate_at_k": 1.0,
+    "k": 4,
+    "n_questions": 16,
+    "per_question": [
+      {
+        "question": "How many days of paid annual leave do full-time employees get?",
+        "hit": true,
+        "top_sources": [
+          [
+            "company_handbook.pdf",
+            1
+          ],
+          [
+            "security_whitepaper.pdf",
+            1
+          ],
+          [
+            "company_handbook.pdf",
+            1
+          ],
+          [
+            "product_release_notes.pdf",
+            1
+          ]
+        ]
+      },
+      {
+        "question": "How many days in advance must a leave request be submitted?",
+        "hit": true,
+        "top_sources": [
+          [
+            "company_handbook.pdf",
+            1
+          ],
+          [
+            "security_whitepaper.pdf",
+            1
+          ],
+          [
+            "company_handbook.pdf",
+            1
+          ],
+          [
+            "product_release_notes.pdf",
+            1
+          ]
+        ]
+      },
+      {
+        "question": "How many days per week can employees work remotely without special approval?",
+        "hit": true,
+        "top_sources": [
+          [
+            "company_handbook.pdf",
+            1
+          ],
+          [
+            "company_handbook.pdf",
+            1
+          ],
+          [
+            "security_whitepaper.pdf",
+            1
+          ],
+          [
+            "product_release_notes.pdf",
+            1
+          ]
+        ]
+      },
+      {
+        "question": "How often is a fully remote arrangement reviewed?",
+        "hit": true,
+        "top_sources": [
+          [
+            "company_handbook.pdf",
+            1
+          ],
+          [
+            "security_whitepaper.pdf",
+            1
+          ],
+          [
+            "company_handbook.pdf",
+            1
+          ],
+          [
+            "product_release_notes.pdf",
+            1
+          ]
+        ]
+      },
+      {
+        "question": "What is the dollar threshold below which an expense can be self-approved?",
+        "hit": true,
+        "top_sources": [
+          [
+            "company_handbook.pdf",
+            1
+          ],
+          [
+            "security_whitepaper.pdf",
+            1
+          ],
+          [
+            "company_handbook.pdf",
+            1
+          ],
+          [
+            "product_release_notes.pdf",
+            1
+          ]
+        ]
+      },
+      {
+        "question": "How long is the new employee probation period?",
+        "hit": true,
+        "top_sources": [
+          [
+            "company_handbook.pdf",
+            1
+          ],
+          [
+            "company_handbook.pdf",
+            1
+          ],
+          [
+            "security_whitepaper.pdf",
+            1
+          ],
+          [
+            "product_release_notes.pdf",
+            1
+          ]
+        ]
+      },
+      {
+        "question": "What new feature does platform version 3.2 introduce for detecting unusual metrics?",
+        "hit": true,
+        "top_sources": [
+          [
+            "product_release_notes.pdf",
+            1
+          ],
+          [
+            "company_handbook.pdf",
+            1
+          ],
+          [
+            "security_whitepaper.pdf",
+            1
+          ],
+          [
+            "product_release_notes.pdf",
+            1
+          ]
+        ]
+      },
+      {
+        "question": "How many standard deviations from baseline triggers an anomaly alert?",
+        "hit": true,
+        "top_sources": [
+          [
+            "product_release_notes.pdf",
+            1
+          ],
+          [
+            "security_whitepaper.pdf",
+            1
+          ],
+          [
+            "company_handbook.pdf",
+            1
+          ],
+          [
+            "product_release_notes.pdf",
+            1
+          ]
+        ]
+      },
+      {
+        "question": "What is the free-tier API rate limit in v3.2?",
+        "hit": true,
+        "top_sources": [
+          [
+            "product_release_notes.pdf",
+            1
+          ],
+          [
+            "product_release_notes.pdf",
+            1
+          ],
+          [
+            "security_whitepaper.pdf",
+            1
+          ],
+          [
+            "company_handbook.pdf",
+            1
+          ]
+        ]
+      },
+      {
+        "question": "What was the free-tier API rate limit before v3.2?",
+        "hit": true,
+        "top_sources": [
+          [
+            "product_release_notes.pdf",
+            1
+          ],
+          [
+            "product_release_notes.pdf",
+            1
+          ],
+          [
+            "security_whitepaper.pdf",
+            1
+          ],
+          [
+            "company_handbook.pdf",
+            1
+          ]
+        ]
+      },
+      {
+        "question": "What known issue affects PDF export in the current release?",
+        "hit": true,
+        "top_sources": [
+          [
+            "product_release_notes.pdf",
+            1
+          ],
+          [
+            "product_release_notes.pdf",
+            1
+          ],
+          [
+            "security_whitepaper.pdf",
+            1
+          ],
+          [
+            "company_handbook.pdf",
+            1
+          ]
+        ]
+      },
+      {
+        "question": "What encryption standard is used for data at rest?",
+        "hit": true,
+        "top_sources": [
+          [
+            "security_whitepaper.pdf",
+            1
+          ],
+          [
+            "security_whitepaper.pdf",
+            1
+          ],
+          [
+            "product_release_notes.pdf",
+            1
+          ],
+          [
+            "company_handbook.pdf",
+            1
+          ]
+        ]
+      },
+      {
+        "question": "How often are encryption keys rotated?",
+        "hit": true,
+        "top_sources": [
+          [
+            "security_whitepaper.pdf",
+            1
+          ],
+          [
+            "security_whitepaper.pdf",
+            1
+          ],
+          [
+            "product_release_notes.pdf",
+            1
+          ],
+          [
+            "company_handbook.pdf",
+            1
+          ]
+        ]
+      },
+      {
+        "question": "What compliance certification is currently in progress?",
+        "hit": true,
+        "top_sources": [
+          [
+            "security_whitepaper.pdf",
+            1
+          ],
+          [
+            "security_whitepaper.pdf",
+            1
+          ],
+          [
+            "product_release_notes.pdf",
+            1
+          ],
+          [
+            "company_handbook.pdf",
+            1
+          ]
+        ]
+      },
+      {
+        "question": "What is the target detection-to-containment time for critical incidents?",
+        "hit": true,
+        "top_sources": [
+          [
+            "security_whitepaper.pdf",
+            1
+          ],
+          [
+            "product_release_notes.pdf",
+            1
+          ],
+          [
+            "security_whitepaper.pdf",
+            1
+          ],
+          [
+            "company_handbook.pdf",
+            1
+          ]
+        ]
+      },
+      {
+        "question": "How long is customer data retained after account closure?",
+        "hit": true,
+        "top_sources": [
+          [
+            "security_whitepaper.pdf",
+            1
+          ],
+          [
+            "security_whitepaper.pdf",
+            1
+          ],
+          [
+            "company_handbook.pdf",
+            1
+          ],
+          [
+            "product_release_notes.pdf",
+            1
+          ]
+        ]
+      }
+    ]
+  },
+  "generation": null
+}
